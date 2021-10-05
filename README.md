@@ -10,7 +10,7 @@
 <br/>
 
 <p>
-I am Aman Narayan, a fullstack developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>[Antstack Technologies](https://antstack.io). I love what I do and I am always keen on learning new technologies.
+I am Aman Narayan, a fullstack developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/> <a href="https://www.antstack.io/">Anstack Technologies</a>. I love what I do and I am always keen on learning new technologies.
 </p>
 
 
