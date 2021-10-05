@@ -10,7 +10,7 @@
 <br/>
 
 <p>
-I am Aman Narayan, a fullstack developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/> [Antstack Technologies](https://antstack.io). I love what I do and I am always keen on learning new technologies.
+I am Aman Narayan, a fullstack developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/>[Antstack Technologies](https://antstack.io). I love what I do and I am always keen on learning new technologies.
 </p>
 
 
@@ -34,4 +34,7 @@ I am Aman Narayan, a fullstack developer currently working at <img height="16" w
 ## 📈 Github Stats 
 
 ![Aman's Stats](https://github-readme-stats.vercel.app/api?username=Aman1706&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
+
+<br/>
+
 ![Aman's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman1706&layout=compact&hide=php&hide_border=true&theme=dark)
