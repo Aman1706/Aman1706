@@ -33,6 +33,13 @@ I am Aman Narayan, a fullstack developer currently working at <img height="16" w
 </p>
 
 
+### 📰 Recent Blog Posts
+
+- [Creating a Responsive Spotify App using React](https://www.antstack.io/blog/create-a-responsive-spotify-app-using-react/)
+
+
+
+
 ## 📈 Github Stats 
 
 ![Aman's Stats](https://github-readme-stats.vercel.app/api?username=Aman1706&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
