@@ -35,7 +35,8 @@ I am Aman Narayan, a software developer currently working at <img height="16" wi
 
 ### 📰 Recent Blog Posts
 
-- [Creating a Responsive Spotify App using React](https://www.antstack.io/blog/create-a-responsive-spotify-app-using-react/)
+- [Creating a Responsive Spotify App using React](https://www.antstack.com/blog/create-a-responsive-spotify-app-using-react/)
+- [Getting Started with React Native](https://www.antstack.com/blog/getting-started-with-react-native/)
 
 
 
