@@ -43,6 +43,7 @@ I am Aman Narayan, a software developer currently working at <img height="16" wi
 
 ## 📈 Github Stats 
 
-![Aman's Stats](https://github-readme-stats-tau-pied.vercel.app/api?username=Aman1706&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
-![Aman1706's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman1706&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
+
+<img alt="Aman's stats" src="https://github-readme-stats-tau-pied.vercel.app/api?username=Aman1706&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark"/>
+
 
