@@ -10,7 +10,7 @@
 <br/>
 
 <p>
-I am Aman Narayan, a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/> <a href="https://www.antstack.com/">Antstack Technologies</a>. I love what I do and I am always keen on learning new technologies.
+I am Aman Nayak, a software developer currently working at <img height="16" width="16" src='http://www.google.com/s2/favicons?domain=www.antstack.io'/> <a href="https://www.antstack.com/">Antstack Technologies</a>. I love what I do and I am always keen on learning new technologies.
 </p>
 
 
